@@ -1,0 +1,8 @@
+STEM 1	Basic Circuit			https://youtu.be/5Vt0rBxHLLw
+STEM 2	DIY Motor & types of Motor	https://www.youtube.com/watch?v=vWVN7AbRm9Y
+STEM 4	Electricity			https://youtu.be/ACs4eIcwRis
+STEM 5	Light				https://youtu.be/hCIq0XMKW3g
+STEM 7	Magentism			https://youtu.be/oX29hv-7r0M
+STEM 2	Motor Polarity Practical	https://youtu.be/ua9ywrpvfGU
+STEM 1	Limit Switch Practical		https://youtu.be/M6jixUDg03o
+STEM 2	Making DIY Motor Practical	https://youtu.be/UzSCgsW4HaE?si=6cZGoVg57OF74K9g
